@@ -30,7 +30,7 @@ void pressanykey() {
 void menu (unsigned dirigido, char &opcion)
 //Expresion del menu de opciones segun sea un grafo dirigido o no dirigido
 {
-    cout << "Optimizacion en Grafos, 2023-2024 PABLO GARCIA DE LOS REYES" << endl;
+    cout << "Optimizacion en Grafos, 2023-2024" << endl;
     cout << "c. [c]argar grafo desde fichero" << endl;
     if (dirigido == 0) //Grafo no dirigido
             {
